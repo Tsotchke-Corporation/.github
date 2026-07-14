@@ -1,26 +1,35 @@
-# TsotchkeCorp ⚫
+# Tsotchke Corporation
 
-_Leading the thermodynamic revolution in Quantum AI computing + hardware_
+**Research software for intelligent systems, scientific computing, and verifiable computation.**
 
-## 🌌 The TsotchkeVerse
+[Website](https://tsotchke.net) · [GitHub](https://github.com/Tsotchke-Corporation) · [X](https://x.com/tsotchkecorp) · [Contact](mailto:dev@tsotchke.net)
 
-We're building a quantum-powered future through innovative applications that blur the line between science and science fiction:
+Tsotchke Corporation develops systems at the intersection of artificial intelligence, numerical computing, simulation, and developer infrastructure. We turn ambitious research programs into software that can be executed, inspected, measured, and improved.
 
-- 🎲 Quantum Particle Simulations
-- 🎰 Quantum Slot Machine
-- 🎨 TsotchkeStyle PFP Generator
-- 🔢 Quantum Random Number Generator API
-- ...and many more quantum tsotchkes (toys) emerging from the void
+Our work ranges from native runtimes and model tooling to distributed compute, codebase intelligence, scientific simulation, and experimental applications.
 
-## 💫 Our Vision
+## Areas of work
 
-At TsotchkeCorp, we're not just developing technology – we're crafting quantum experiences that challenge the boundaries between classical and quantum computing. Each project is a carefully crafted tsotchke (toy) that showcases the power and mystery of quantum mechanics.
+- **Intelligent systems** — model architectures, inference systems, agent runtimes, and the infrastructure required to evaluate them.
+- **Scientific computing** — numerical methods, simulation runtimes, and quantum and quantum-inspired computational systems.
+- **Engineering infrastructure** — codebase intelligence, verification, orchestration, and distributed compute tooling for complex software programs.
+- **Experimental platforms** — applications that make research systems observable, interactive, and useful outside the laboratory.
 
-## 🔗 Enter The Void
+## Selected public work
 
-- [Twitter @tsotchke](https://x.com/tsotchke)
-- [Twitter @tsotchkecoin](https://x.com/tsotchkecoin)
+| Project | Focus |
+| --- | --- |
+| [Quantum RNG API](https://github.com/Tsotchke-Corporation/Quantum-RNG-API) | Native and REST interfaces for random-number generation, typed outputs, entropy monitoring, and service health checks. |
+| [SolanaQuantumFlux](https://github.com/Tsotchke-Corporation/SolanaQuantumFlux) | SDK, documentation, and integration examples for a randomness service on Solana. |
+| [ULG](https://github.com/Tsotchke-Corporation/ulg) | Browser-native scientific-computing integration with supervised workers, WebGPU execution, CPU fallbacks, and explicit runtime evidence. |
+| [Quantum Quake](https://github.com/Tsotchke-Corporation/quantum-quake) | An auditable research engine for quantum and quantum-inspired computation inside a QuakeSpasm runtime. |
 
----
+## Engineering posture
 
-*Where quantum innovation meets dark matter dreams*
+We prefer evidence to spectacle. Projects are expected to distinguish production capabilities from experiments, state their assumptions, preserve reproducible artifacts, and define the checks that support technical claims.
+
+Some systems remain private while their interfaces, security posture, documentation, and licensing are prepared for release. Each public repository describes its own maturity, supported claims, and license.
+
+## Work with us
+
+We are open to research collaboration, technical partnerships, and focused engineering engagements. For project, licensing, or security inquiries, contact [dev@tsotchke.net](mailto:dev@tsotchke.net).
